@@ -1,0 +1,22 @@
+Konzept Zwischenprüfung 2017
+
+Thema: 3D - Brettspiel, Dungeons and Dragons
+
+Ich möchte ein wirkliches Brettspiel für einen Spieler bauen. 
+Der Spieler bekommt die Kontrolle über vier verschiedene Heldenfiguren mit denen
+er das Brett erkundet. Dabei stellen sich ihm Gegner in den Weg, die er mit seinen Helden bekämpft.
+Das Spielfeld soll in einzelne Räume aufgeteilt sein, die der Spieler durch Öffnen von Türen nach 
+und nach aufdeckt. Findet er dabei Gegner, muss er sie bekämpfen, um weiterzukommen. Erst wenn alle 
+Feinde besiegt sind, öffnet sich die Tür zum nächsten Level und der Spieler hat gewonnen.
+Der Kampf wird mit sechsseitigen Würfeln ausgetragen. Jeder Charakter hat unterschiedlich
+viel Rüstung und Leben, sowie Boni auf den Schaden, den er verursacht. Außerdem haben einige
+Heldenfiguren Mana, das sie benutzen können, um starke Schadens- oder Heilmagie zu benutzen, dafür sind
+ihre normalen Angriffe eher vernachlässigbar und dienen vorsätzlich der Manaregeneration.
+Das Spielgeschehen wird in Runden aufgeteilt, wobei sich die Helden und die Monster abwechseln.
+Pro Runde hat jeder Held 2 Aktionen, die er ausführen kann. Diese lassen sich beliebig kombinieren.
+Nur 2-mal angreifen ist nicht erlaubt. Gegner werden sich nicht bewegen, da mir dafür die Zeit fehlt, 
+aber wenn sie an der Reihe sind greifen sie den Helden, der ihnen in der letzten Runde am meisten Schaden zugefügt hat,
+an. Ich werde nur das Einführungslevel bauen und auch keine Assets selbst erstellen,
+da bereits die Verwirklichung der grundlegenden Spielmechaniken meine gesamte Zeit in Anspruch nehmen wird.
+Sollte ich wider Erwarten früher fertig werden, sind Powerups der Helden durch Ausrüstung und mehr Level sowie
+eigene Assets geplant.
